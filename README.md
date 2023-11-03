@@ -48,7 +48,10 @@ Example usage:
 ## Data Analysis
 In this section, you can describe the key findings and insights from the data analysis. Include visualizations, tables, or charts that highlight important trends or patterns in the estate housing dataset.
 
+![image](https://github.com/MuyiwaNau/Estate-housing-dataset/assets/34709932/b40cf1d3-2fe2-4951-a2e7-7d49a8882db3)
 
+
+![image](https://github.com/MuyiwaNau/Estate-housing-dataset/assets/34709932/6942d3e2-798d-4598-941e-26951e9253c2)
 
 
 
